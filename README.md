@@ -2,7 +2,7 @@
 
 
 > ## About
-- Android App that convert Dolar to Real, developed in Java for study purposes.
+- Android App that converts Dolar to Real, developed in Java for study purposes.
 
 <img src="https://i.postimg.cc/y6M1GJ9K/image.png" >
 
